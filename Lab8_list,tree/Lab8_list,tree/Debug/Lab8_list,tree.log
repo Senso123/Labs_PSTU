@@ -1,4 +1,0 @@
-﻿  Source.cpp
-c:\users\irina\yandexdisk\подработки\программирование д.герман\lab8_list,tree\lab8_list,tree\list.h(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Lab8_list,tree.vcxproj -> C:\Users\Irina\YandexDisk\Подработки\Программирование Д.Герман\Lab8_list,tree\Debug\Lab8_list,tree.exe
-  Lab8_list,tree.vcxproj -> C:\Users\Irina\YandexDisk\Подработки\Программирование Д.Герман\Lab8_list,tree\Debug\Lab8_list,tree.pdb (Full PDB)
