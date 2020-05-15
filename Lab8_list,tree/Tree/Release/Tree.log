@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Source.cpp(45): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Tree.vcxproj -> C:\Users\ois\YandexDisk\Подработки\Программирование Д.Герман\Lab8_list,tree\Release\Tree.exe
+  Tree.vcxproj -> C:\Users\ois\YandexDisk\Подработки\Программирование Д.Герман\Lab8_list,tree\Release\Tree.pdb (Full PDB)
