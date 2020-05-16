@@ -1,0 +1,5 @@
+﻿  Lab7_main.cpp
+C:\Users\cool_\Desktop\2 семестр\основы алгоритмизации и програмирования\Lab7\Vector.h(77): warning C4715: Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+Lab7_main.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Vector<int> const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABV?$Vector@H@@@Z) в функции _main
+Lab7_main.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Vector<int> &)" (??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAV?$Vector@H@@@Z) в функции _main
+C:\Users\cool_\Desktop\2 семестр\основы алгоритмизации и програмирования\Lab7\Debug\Lab7.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
