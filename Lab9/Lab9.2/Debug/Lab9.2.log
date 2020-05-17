@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Vector.cpp
+C:\Users\cool_\Desktop\2 семестр\основы алгоритмизации и програмирования\Lab9\Lab9.2\Vector.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Lab9.2.vcxproj -> C:\Users\cool_\Desktop\2 семестр\основы алгоритмизации и програмирования\Lab9\Debug\Lab9.2.exe

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab9.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Main.cpp
+  Vector.cpp
+C:\Users\cool_\Desktop\2 семестр\основы алгоритмизации и програмирования\Lab9\Lab9\Vector.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Lab9.vcxproj -> C:\Users\cool_\Desktop\2 семестр\основы алгоритмизации и програмирования\Lab9\Debug\Lab9.1.exe
