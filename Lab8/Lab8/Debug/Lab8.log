@@ -1,0 +1,9 @@
+﻿  Dialog.cpp
+  Lab8_main.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: Lab8_main.cpp: No such file or directory,
+  Object.cpp
+  Print.cpp
+  Book.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: Book.cpp: No such file or directory,
+  Vector.cpp
+  Создание кода...
