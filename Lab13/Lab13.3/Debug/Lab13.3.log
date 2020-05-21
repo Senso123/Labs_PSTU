@@ -1,0 +1,5 @@
+﻿  Lab13.3_main.cpp
+C:\Users\cool_\Desktop\2 семестр\основы алгоритмизации и програмирования\Lab13\Lab13.3\Lab13.3_main.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Time.cpp
+  Создание кода...
+  Lab13.3.vcxproj -> C:\Users\cool_\Desktop\2 семестр\основы алгоритмизации и програмирования\Lab13\Debug\Lab13.3.exe
