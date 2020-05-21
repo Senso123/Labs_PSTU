@@ -1,0 +1,9 @@
+﻿  Lab11.2_main.cpp
+c:\users\ois\yandexdisk\подработки\программирование д.герман\2к.3с\lab11\lab11.2\lab11.2_main.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\ois\yandexdisk\подработки\программирование д.герман\2к.3с\lab11\lab11.2\lab11.2_main.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ois\yandexdisk\подработки\программирование д.герман\2к.3с\lab11\lab11.2\lab11.2_main.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ois\yandexdisk\подработки\программирование д.герман\2к.3с\lab11\lab11.2\lab11.2_main.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ois\yandexdisk\подработки\программирование д.герман\2к.3с\lab11\lab11.2\lab11.2_main.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ois\yandexdisk\подработки\программирование д.герман\2к.3с\lab11\lab11.2\lab11.2_main.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab11.2.vcxproj -> C:\Users\ois\YandexDisk\Подработки\Программирование Д.Герман\2к.3с\Lab11\Debug\Lab11.2.exe
+  Lab11.2.vcxproj -> C:\Users\ois\YandexDisk\Подработки\Программирование Д.Герман\2к.3с\Lab11\Debug\Lab11.2.pdb (Full PDB)
