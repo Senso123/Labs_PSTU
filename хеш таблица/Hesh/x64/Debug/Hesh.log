@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\cool_\Desktop\универ\димон\Полякова\3с\Программирование\Готовые работы\Hesh\Hesh\Main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\cool_\Desktop\универ\димон\Полякова\3с\Программирование\Готовые работы\Hesh\Hesh\Main.cpp(116,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\cool_\Desktop\универ\димон\Полякова\3с\Программирование\Готовые работы\Hesh\Hesh\Main.cpp(208,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Hesh.vcxproj -> C:\Users\cool_\Desktop\универ\димон\Полякова\3с\Программирование\Готовые работы\Hesh\x64\Debug\Hesh.exe
