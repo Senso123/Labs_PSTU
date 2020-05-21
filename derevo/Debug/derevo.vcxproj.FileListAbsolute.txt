@@ -1,0 +1,4 @@
+C:\Users\cool_\Desktop\2 семестр\теория алгоритмов и структуры лданных\derevo\Debug\derevo.exe
+C:\Users\cool_\Desktop\2 семестр\теория алгоритмов и структуры лданных\derevo\Debug\derevo.pdb
+C:\Users\cool_\Desktop\derevo\Debug\derevo.exe
+C:\Users\cool_\Desktop\derevo\Debug\derevo.pdb
