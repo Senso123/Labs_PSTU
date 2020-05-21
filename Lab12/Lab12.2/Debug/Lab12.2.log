@@ -1,0 +1,6 @@
+﻿  Time.cpp
+  Lab12.2_main.cpp
+c:\users\irina\yandexdisk\подработки\программирование д.герман\2к.3с\lab12\lab12.2\lab12.2_main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab12.2.vcxproj -> C:\Users\Irina\YandexDisk\Подработки\Программирование Д.Герман\2к.3с\Lab12\Debug\Lab12.2.exe
+  Lab12.2.vcxproj -> C:\Users\Irina\YandexDisk\Подработки\Программирование Д.Герман\2к.3с\Lab12\Debug\Lab12.2.pdb (Full PDB)
